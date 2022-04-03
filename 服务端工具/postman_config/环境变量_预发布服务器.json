@@ -1,0 +1,14 @@
+{
+	"id": "8572f4f3-d07e-446f-a9f5-13b296aedeef",
+	"name": "3.预发布服务器",
+	"values": [
+		{
+			"key": "server",
+			"value": "47.107.102.33:8004",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-02-27T09:59:08.182Z",
+	"_postman_exported_using": "Postman/7.19.1"
+}
